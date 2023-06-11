@@ -5,4 +5,5 @@
 
 
 ok
-![](https://github.com/HasibuliT/Module6Assignment/assets/66546794/22423974-5ab2-4a10-9e20-706f3f3d6bed =250x250)
+Copy <img> in browser DevTools. Replace ![](url) to <img>. Add width(and height) attr.
+<img src="https://github.com/HasibuliT/Module6Assignment/assets/66546794/22423974-5ab2-4a10-9e20-706f3f3d6bed" data-canonical-src="https://github.com/HasibuliT/Module6Assignment/assets/66546794/22423974-5ab2-4a10-9e20-706f3f3d6bed" width="200" height="400" />
