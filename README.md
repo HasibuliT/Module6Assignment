@@ -1,12 +1,4 @@
 # Module 6 Assignment
 
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
-
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)
-
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png)
-
-Copy <img> in browser DevTools. Replace ![](url) to <img>. Add width(and height) attr.
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+![Screenshot_20230611_212715](https://github.com/HasibuliT/Module6Assignment/assets/66546794/22423974-5ab2-4a10-9e20-706f3f3d6bed)
+![Screenshot_20230611_212724](https://github.com/HasibuliT/Module6Assignment/assets/66546794/6017e4a4-ebda-4be1-883e-5c1cd2b23449)
