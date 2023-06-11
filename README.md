@@ -5,6 +5,6 @@
 
 
 ok
-<p align="right">
+<p align="center">
   <img src="https://github.com/HasibuliT/Module6Assignment/assets/66546794/22423974-5ab2-4a10-9e20-706f3f3d6bed" width="200" height="200"/>
 </p>
